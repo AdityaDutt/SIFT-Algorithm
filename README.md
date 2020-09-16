@@ -1,6 +1,8 @@
 # SIFT-Algorithm
 Demonstration of sift algorithm to track objects and observing the effect of each parameter on performance.
 
+SIFT stands for scale-invariant feature transform (SIFT). It is a feature detection algorithm in computer vision to detect and describe local features in images. It was published by David Lowe in 1999. It has sevral applications like image stitching, 3D modeling, gesture recognition and video tracking. 
+
 ## Usage:
 
 Example : 
