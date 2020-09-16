@@ -25,7 +25,7 @@ Output:
 
 ```
 
-<img align="center" alt="Python" src="/sift_matcher.png" />
+<img align="center" alt="Python" src="/sift_features.png" />
 </br>
 
 
