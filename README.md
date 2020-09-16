@@ -37,14 +37,15 @@ Output:
 FindSomeKeypoints(img1, img2)
 
 
-Inputs:
+<b>Inputs:</b>
+
 FName1- An image file of the form {Name1}.{ext}
 
 FName2- An image file that is an optional argument
 
 Params- A Dictionary of keyword-value pairs to be used in SIFT. Params can have from 0 to the total number of SIFT parameters elements.
 
-Outputs:
+<b>Outputs:</b>
 
 If the input consists of 1 image:
 
