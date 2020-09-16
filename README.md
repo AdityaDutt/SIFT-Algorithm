@@ -5,9 +5,8 @@ SIFT stands for scale-invariant feature transform (SIFT). It is a feature detect
 
 ## Usage:
 
-Example : 
+Example 1: 
 
-1. 
 ```
 FindSomeKeypoints(img1, img2)
 
@@ -18,7 +17,7 @@ Output:
 <img align="center" alt="Python" src="/sift_matcher.png" />
 </br>
 
-2. 
+Example 2: 
 
 ```
 FindSomeKeypoints(img1)
@@ -38,14 +37,14 @@ Output:
 FindSomeKeypoints(img1, img2)
 
 
-### Inputs:
+Inputs:
 FName1- An image file of the form {Name1}.{ext}
 
 FName2- An image file that is an optional argument
 
 Params- A Dictionary of keyword-value pairs to be used in SIFT. Params can have from 0 to the total number of SIFT parameters elements.
 
-### Outputs:
+Outputs:
 
 If the input consists of 1 image:
 
