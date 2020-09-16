@@ -31,7 +31,12 @@ Output:
 </br>
 
 
-Call function	<i> FindSomeKeypoints </i> to run the code.
+## Function Description
+
+### FindSomeKeypoints)
+
+FindSomeKeypoints(img1, img2)
+
 
 ### Inputs:
 FName1- An image file of the form {Name1}.{ext}
