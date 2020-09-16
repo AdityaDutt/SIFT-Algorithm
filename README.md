@@ -12,7 +12,7 @@ Output:
 
 ```
 
-<img align="left" alt="Python" width="30px" src="/sift_matcher.png" />
+<img align="left" alt="Python" src="/sift_matcher.png" />
 
 Call function	<i> FindSomeKeypoints </i> to run the code.
 
