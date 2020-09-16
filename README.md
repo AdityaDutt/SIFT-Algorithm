@@ -1,5 +1,5 @@
 # SIFT-Algorithm
-Using sift algorithm to track objects and observing the effect of each parameter on performance.
+Demonstration of sift algorithm to track objects and observing the effect of each parameter on performance.
 
 ## Usage:
 
@@ -38,3 +38,12 @@ If the input consists of 2 images:
 + an image that somehow depicts the (best) matches between the images should be written to a file with the name Keypoints{Name1Name2}Match.{ext}
 
 + the Params should be written to a text file called ParamsKeypoints{Name1Name2}.txt
+
+
+## Authors
+
+* **Aditya Dutt** - [[Website]](https://www.adityadutt.com) 
+* **Nicholas Kroeger** - [[Website]](https://kroegern1.github.io/) [[Email]]
+
+
+
