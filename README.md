@@ -5,6 +5,7 @@ Demonstration of sift algorithm to track objects and observing the effect of eac
 
 Example : 
 
+1. 
 ```
 FindSomeKeypoints(img1, img2)
 
@@ -14,6 +15,19 @@ Output:
 
 <img align="center" alt="Python" src="/sift_matcher.png" />
 </br>
+
+2. 
+
+```
+FindSomeKeypoints(img1)
+
+Output: 
+
+```
+
+<img align="center" alt="Python" src="/sift_matcher.png" />
+</br>
+
 
 Call function	<i> FindSomeKeypoints </i> to run the code.
 
