@@ -54,11 +54,11 @@ If the input consists of 1 image:
 + the Params are written to a text file called ParamsKeypoints{Name1}.txt
 
 If the input consists of 2 images:
-+ the image with the keypoints overlaid on is written to 2 files with the name Keypoints{Name1}.{ext} and Keypoints{Name2}.{ext}
++ the image with the keypoints overlaid on it is written to 2 files with the name Keypoints{Name1}.{ext} and Keypoints{Name2}.{ext}
 
-+ an image that somehow depicts the (best) matches between the images should be written to a file with the name Keypoints{Name1Name2}Match.{ext}
++ an image that depicts the (best) matches between the images are written to a file with the name Keypoints{Name1Name2}Match.{ext}
 
-+ the Params should be written to a text file called ParamsKeypoints{Name1Name2}.txt
++ the Params are written to a text file called ParamsKeypoints{Name1Name2}.txt
 
 
 ## Authors
