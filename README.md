@@ -2,6 +2,13 @@
 Using sift algorithm to track objects and observing the effect of each parameter on performance.
 
 ## Usage:
+
+Example : 
+
+```
+FindSomeKeypoints(img1, img2)
+```
+
 Call function	<i> FindSomeKeypoints </i> to run the code.
 
 ### Inputs:
