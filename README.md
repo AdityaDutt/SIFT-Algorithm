@@ -7,7 +7,12 @@ Example :
 
 ```
 FindSomeKeypoints(img1, img2)
+
+Output: 
+
 ```
+
+<img align="left" alt="Python" width="30px" src="/sift_matcher.png" />
 
 Call function	<i> FindSomeKeypoints </i> to run the code.
 
