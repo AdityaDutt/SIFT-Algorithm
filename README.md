@@ -59,7 +59,7 @@ If the input consists of 2 images:
 ## Authors
 
 * **Aditya Dutt** - [[Website]](https://www.adityadutt.com) 
-* **Nicholas Kroeger** - [[Website]](https://kroegern1.github.io/) [[Email]]
+* **Nicholas Kroeger** - [[Website]](https://kroegern1.github.io/)
 
 
 
