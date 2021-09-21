@@ -10,7 +10,7 @@ Example 1:
 ```
 FindSomeKeypoints(img1, img2)
 
-Output: 
+Output:
 
 ```
 
